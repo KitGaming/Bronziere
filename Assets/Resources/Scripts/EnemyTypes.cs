@@ -1,10 +1,10 @@
-﻿namespace HneriqueGrecov.Bronziere
+﻿namespace HenriqueGrecov.Bronziere
 {
 	public enum EnemyTypes
 	{
-		Average;
-		Brute;
-		Captain;
-		Elite;
+		Average,
+		Brute,
+		Captain,
+		Elite
 	}
 }

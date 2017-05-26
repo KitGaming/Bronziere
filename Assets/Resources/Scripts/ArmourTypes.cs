@@ -2,8 +2,8 @@
 {
 	public enum ArmourType
 	{
-		HeadArmour;
-		ChestArmour;
-		LegArmour;
+		HeadArmour,
+		ChestArmour,
+		LegArmour
 	}
 }

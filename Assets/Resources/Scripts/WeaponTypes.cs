@@ -2,10 +2,10 @@
 {
 	public enum WeaponTypes
 	{
-		Club;
-		Fist;
-		Rifle;
-		ShortStaff;
-		Staff;
+		Club,
+		Fist,
+		Rifle,
+		ShortStaff,
+		Staff
 	}
 }
